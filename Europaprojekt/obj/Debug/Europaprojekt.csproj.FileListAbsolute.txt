@@ -1,0 +1,21 @@
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\bin\Debug\Europaprojekt.exe.config
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\bin\Debug\Europaprojekt.exe
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\bin\Debug\Europaprojekt.pdb
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.csprojResolveAssemblyReference.cache
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.Form1.resources
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.Properties.Resources.resources
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.csproj.GenerateResource.Cache
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.exe
+D:\Ervin Palavrtic\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.pdb
+E:\Schule\Europaprojekt\Europaprojekt\bin\Debug\Europaprojekt.exe.config
+E:\Schule\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.exe
+E:\Schule\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.pdb
+E:\Schule\Europaprojekt\Europaprojekt\bin\Debug\Europaprojekt.exe
+E:\Schule\Europaprojekt\Europaprojekt\bin\Debug\Europaprojekt.pdb
+E:\Schule\Europaprojekt\Europaprojekt\bin\Debug\Svg.dll
+E:\Schule\Europaprojekt\Europaprojekt\bin\Debug\Svg.pdb
+E:\Schule\Europaprojekt\Europaprojekt\bin\Debug\Svg.xml
+E:\Schule\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.csprojResolveAssemblyReference.cache
+E:\Schule\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.Form1.resources
+E:\Schule\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.Properties.Resources.resources
+E:\Schule\Europaprojekt\Europaprojekt\obj\Debug\Europaprojekt.csproj.GenerateResource.Cache
